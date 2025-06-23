@@ -2,6 +2,12 @@
 *.p8l
 *.png
 
+<<<<<<< HEAD
+=======
+LICENSE
+README.md
+
+>>>>>>> b16d73b (Initial commit)
 # Compiled Lua sources
 luac.out
 
